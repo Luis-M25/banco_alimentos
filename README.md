@@ -58,8 +58,8 @@ Asegúrate de tener instalado:
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/mintriago123/tesis_banco_alimentos.git
-cd tesis_banco_alimentos
+git clone https://github.com/Luis-M25/banco_alimentos.git
+cd banco_alimentos
 ```
 
 2. **Instalar dependencias:**
