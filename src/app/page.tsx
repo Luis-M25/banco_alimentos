@@ -111,7 +111,7 @@ export default function HomePage() {
               </Link>
             </div>
             <div>
-              <h2 className="font-semibold">Participa</h2>
+              <h2 className="font-semibold">Participa con nosotros</h2>
               <Link href="/auth/iniciar-sesion" className="mt-3 inline-block text-sm text-slate-300 hover:text-blue-300">Donar alimentos</Link>
             </div>
             <div>
